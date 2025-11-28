@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/calculation-pad-pages/static/css/main.8c44471c.css",
+    "main.js": "/calculation-pad-pages/static/js/main.9f28b98d.js",
+    "static/js/453.4b6d30c7.chunk.js": "/calculation-pad-pages/static/js/453.4b6d30c7.chunk.js",
+    "index.html": "/calculation-pad-pages/index.html",
+    "main.8c44471c.css.map": "/calculation-pad-pages/static/css/main.8c44471c.css.map",
+    "main.9f28b98d.js.map": "/calculation-pad-pages/static/js/main.9f28b98d.js.map",
+    "453.4b6d30c7.chunk.js.map": "/calculation-pad-pages/static/js/453.4b6d30c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c44471c.css",
+    "static/js/main.9f28b98d.js"
+  ]
+}
